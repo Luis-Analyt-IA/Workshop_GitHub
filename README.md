@@ -3,5 +3,5 @@ El objetivo de este repositorio es mostrar el uso de Git y GitHub
 
 * Uno
 * Dos
-  *tres
-  *cuatro
+  -tres
+  -cuatro
